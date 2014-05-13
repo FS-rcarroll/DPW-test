@@ -8,7 +8,7 @@ class MainHandler(webapp2.RequestHandler):
 
         yoda = Character()
         yoda.name = "Yoda"
-        yoda.age = -5
+        yoda.age = -7
         yoda.gender = "Male"
         yoda.occupation = "Jedi Master"
         yoda.print_info()

@@ -12,7 +12,7 @@ class MainHandler(webapp2.RequestHandler):
         yoda.gender = "Male"
         yoda.occupation = "Jedi Master"
         yoda.print_info()
-        #instance.attribute
+        #instance.attributes
         #instance.method()
         #instance.property
 
